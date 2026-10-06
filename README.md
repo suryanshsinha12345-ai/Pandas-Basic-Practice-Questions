@@ -1,7 +1,7 @@
 # Pandas-Basic-Practice-Questions
 A collection of solved Pandas practice questions covering DataFrames, indexing, filtering, selection, aggregation, sorting, and basic data analysis operations.
 
-## 📌 Project Overview
+##  Project Overview
 
 This repository contains a collection of completed practice questions designed to build and strengthen fundamental skills in **Pandas**, a Python library widely used for data manipulation and analysis.
 
@@ -9,7 +9,7 @@ The project is focused on hands-on practice with Pandas operations and provides 
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of this practice project are:
 
@@ -22,7 +22,7 @@ The main objectives of this practice project are:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python**
 - **Pandas**
@@ -30,7 +30,7 @@ The main objectives of this practice project are:
 
 ---
 
-## 📚 Topics Covered
+## Topics Covered
 
 The notebook provides hands-on practice with fundamental Pandas concepts, including:
 
@@ -45,7 +45,7 @@ The notebook provides hands-on practice with fundamental Pandas concepts, includ
 
 ---
 
-## 📓 Notebook
+## Notebook
 
 The repository contains the completed practice notebook:
 
@@ -55,7 +55,7 @@ The notebook includes the practice questions along with the completed Python/Pan
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 ### 1. Clone the repository
 
